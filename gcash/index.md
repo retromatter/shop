@@ -4,8 +4,15 @@
 
 ---
 
+
 ## 📱 GCash Cash In / Cash Out Fees
-*Updated Service Rates for 2026*
+*Updated Service Rates for 2026
+
+This repository provides a reference for the standard service fees charged by local over-the-counter (OTC) partners for **GCash Cash In** and **Cash Out** transactions.
+
+> [!IMPORTANT]
+> These rates are based on the common fee structure found in local partner outlets (Sari-sari stores, local payment centers). Official GCash fees via linked banks or digital channels may differ.
+
 
 > [!NOTE]
 > The service fee increases by **₱10.00** for every **₱500.00** increment.
@@ -41,5 +48,15 @@
 | 13,001 - 13,500 | 270.00 |
 | 13,501 - 14,000 | 280.00 |
 
+
 ---
-*© 2026 Local Store Partner*
+
+## Quick Summary
+* **Incremental Charge:** PHP 10.00 for every PHP 500.00 increment.
+* **Percentage Equivalent:** This chart roughly follows a **2% fee** structure (e.g., PHP 100 fee for PHP 5,000).
+
+---
+*Last updated: January 2026*
+
+*© 2026 JUNL.EE*
+
